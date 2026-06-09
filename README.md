@@ -17,7 +17,6 @@ Sistema de cadastro e gerenciamento de contas bancárias desenvolvido em C, util
 ├── main.c      # Menu principal e ponto de entrada
 ├── cliente.h   # Estrutura de dados e protótipos
 ├── cliente.c   # Implementação das funções
-└── Makefile    # Script de compilação
 ```
 
 ## Como Compilar e Rodar
